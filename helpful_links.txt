@@ -1,0 +1,3 @@
+https://www.instructables.com/Object-Detection-on-Raspberry-Pi/
+https://raspberrypi.stackexchange.com/questions/107483/error-installing-tensorflow-cannot-find-libhdfs-so
+
